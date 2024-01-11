@@ -19,7 +19,7 @@ I am a college student and a self-taught UI/UX designer and Frontend developer.
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zqn2qlygprx4cypyua67b5knxu)
 
 ## Languages :
-<div padding='8px>
+<div padding="8px">
 <img src='assets/c++.png' width="48px" hspace="8" >
 <img src='assets/c.png' width="48px" hspace="8" >
 <img src='assets/html.png' width="48px" hspace="8" >
@@ -30,6 +30,13 @@ I am a college student and a self-taught UI/UX designer and Frontend developer.
 <img src='assets/mysql.png' width="48px" hspace="8" >
 </div>
 
+## Design Tools:
+<div padding="8px">
+
+<img src="assets/figma.png" width="48px" hspace="8">
+<img src='assets/illustrator.png' width="48px" hspace="8" >
+<img src='assets/ph.png' width="48px" hspace="8" >
+<img src='assets/blender.png' width="48px" hspace="8" >
 
 ## My Stats :
 
