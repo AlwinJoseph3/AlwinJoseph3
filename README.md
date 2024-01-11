@@ -13,10 +13,10 @@ I am a college student and a self-taught UI/UX designer and Frontend developer.
 <p><b>Frontend Development</b>: Proficient in HTML & CSS, I bring designs to life.</p>  -->
 
 [![](https://img.shields.io/badge/-Gmail-%23F2A60C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwinjoseph1403@gmail.com)
-[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
+[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/alwinjoseph3)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/al_win.joseph)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwin-joseph-807420221/)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zqn2qlygprx4cypyua67b5knxu)
 
 ## Languages :
 <div padding='8px>
