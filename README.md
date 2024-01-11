@@ -7,10 +7,10 @@
 Hi! I'm Alwin.
 ====================================================================================================================================
 
-Self-taught UI/UX designer and Frontend developer.
--------------------------------------------------
+I am a college student and a self-taught UI/UX designer and Frontend developer.
 
-UI/UX Design: I design clean and modern user interfaces, keeping user experience at the forefront. Frontend Development: Proficient in HTML & CSS, I bring designs to life.
+<!-- <p><b>UI/UX Design</b>:   I design clean and modern user interfaces, keeping user experience at the forefront.</p>
+<p><b>Frontend Development</b>: Proficient in HTML & CSS, I bring designs to life.</p>  -->
 
 [![](https://img.shields.io/badge/-Gmail-%23F2A60C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwinjoseph1403@gmail.com)
 [![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
@@ -28,13 +28,6 @@ UI/UX Design: I design clean and modern user interfaces, keeping user experience
 <img src='assets/python.png' width="48px" hspace="8" >
 <img src='assets/r.png' width="48px" hspace="8" >
 <img src='assets/mysql.png' width="48px" hspace="8" >
-</div>
-
-## Connect with me :
-<div padding="8px">
-<a href="mailto:alwinjoseph1403@gmail.com"><img src='assets/gmail.png' width="48px" hspace="8" ></a>   
-<a href="https://www.instagram.com/al_win.joseph/"><img src='assets/insta.png' width="48px" hspace="8" ></a>    
-<a href="https://dribbble.com/alwinjoseph3"><img src='assets/dribble.png' width="48px" hspace="8" ></a> 
 </div>
 
 
